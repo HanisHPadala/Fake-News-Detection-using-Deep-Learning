@@ -18,7 +18,7 @@ This project is a machine learning model for detecting fake news articles. Using
 
 You can install all required packages with:
 ```bash
-pip install tensorflow pandas numpy nltk scikit-learn
+pip install tensorflow pandas numpy nltk scikit-learn ```
 
 ##Data Preparation
 -The model is trained using two datasets:
